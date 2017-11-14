@@ -1,0 +1,32 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "random",
+    "description": "",
+    "home_page_url": "https://dhaslock.github.io/workshops",
+    "feed_url": "https://dhaslock.github.io/workshops/feed.json",
+    "user_comment": "",
+    "icon": "https://dhaslock.github.io/workshops/media/website/logo-random.png",
+    "author": {
+        "name": "david serrano"
+    },
+    "items": [
+        {
+            "id": "https://dhaslock.github.io/workshops/ultranosic-sensor-controlling-some-leds.html",
+            "url": "https://dhaslock.github.io/workshops/ultranosic-sensor-controlling-some-leds.html",
+            "title": "Ultrasonic sensor controlling some LEDs",
+            "content_html": "&iexcl;jarl cobarde pecador de la pradera! Esta p&aacute;gina a&uacute;n no tiene nada, por la gloria de mi madre...",
+            "author": {
+                "name": "david serrano"
+            },
+            "tags": [
+                   "Ultrasonic",
+                   "LED",
+                   "Grasshopper",
+                   "Firefly",
+                   "Arduino"
+            ],
+            "date_published": "2017-11-14T11:16:43+01:00",
+            "date_modified": "2017-11-14T11:25:48+01:00"
+        }
+    ]
+}
